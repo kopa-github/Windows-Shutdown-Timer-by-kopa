@@ -5,11 +5,9 @@
 A simple [Windows Shutdown Timer](https://github.com/kopa-github/Windows-Shutdown-Timer-by-kopa/releases/tag/latest_timer) with GUI.
 <br>
 <br>
-<br>
 Supported Windows versions:
 <br>
 XP, Vista, 7, 8/8.1, 10 and 11.
-<br>
 <br>
 <br>
 <br>
