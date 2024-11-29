@@ -1,4 +1,4 @@
-# Windows-Shutdown-Timer-by-kopa
+# Windows Shutdown Timer GUI : by kopa
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/fat_kopa)
 <br>
 <br>
@@ -9,7 +9,6 @@ A simple Windows Shutdown Timer with GUI.
 <br>
 Supported Windows versions:
 <br>
--------------------------------
 XP, Vista, 7, 8/8.1, 10 and 11.
 <br>
 <br>
