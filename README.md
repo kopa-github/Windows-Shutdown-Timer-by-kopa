@@ -1,5 +1,10 @@
 # Windows-Shutdown-Timer-by-kopa
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/fat_kopa)
+<br>
+<br>
 This is a simple Windows Shutdown Timer with GUI.
+<br>
+<br>
 <br>
 <br>
 <br>
