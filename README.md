@@ -2,7 +2,7 @@
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/fat_kopa)
 <br>
 <br>
-A simple Windows Shutdown Timer with GUI.
+A simple Windows [Shutdown Timer](https://github.com/kopa-github/Windows-Shutdown-Timer-by-kopa/releases/tag/latest_timer) with GUI.
 <br>
 <br>
 <br>
